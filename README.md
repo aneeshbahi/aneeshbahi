@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Hellooooo! 
-I am a first year 
+Hello, I am a second year Computer Science and Business Administration student at Northeastern University, passionate about the intersection on fintech and building projects to help others. 
 
 <!--
 **aneeshbahi/aneeshbahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
