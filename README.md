@@ -1,18 +1,17 @@
-## Hi there 👋
+Hi, I'm Aneesh 👋
 
-Hello, I am a second year Computer Science and Business Administration student at Northeastern University, passionate about the intersection on fintech and building projects to help others. 
+Computer Science + Business student at Northeastern University, interested in machine learning, data science, and building products.
 
-<!--
-**aneeshbahi/aneeshbahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 What I've worked on
+ML research @ Emerson Health, Dept. of Urology: predicting treatment success from urodynamic data
+Speech emotion recognition @ Northeastern DATA Club: deep learning model that detects emotion from audio
+Harvard Medical School Moonshot Program: Python control software and ML tumor classification for a surgical robot
+IBM Poughkeepsie: Python scripting for supply chain tools
+Northeastern Electric Racing: product management and website redesign
+🛠️ Tools
 
-Here are some ideas to get you started:
+Python · Java · pandas · scikit-learn · NumPy · Matplotlib · Figma · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect
+
+LinkedIn
