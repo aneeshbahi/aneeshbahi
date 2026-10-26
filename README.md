@@ -14,4 +14,4 @@ Python · Java · pandas · scikit-learn · NumPy · Matplotlib · Figma · Git
 
 📫 Connect
 
-LinkedIn
+www.linkedin.com/in/aneesh-bahierathan
